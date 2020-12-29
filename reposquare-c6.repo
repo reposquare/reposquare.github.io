@@ -1,0 +1,7 @@
+[reposquare]
+name=Reposquare CentOS 6
+baseurl=https://reposquare.github.io/c6/
+enabled=1
+gpgcheck=0
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-REPOSQUARE-CENTOS-6
+
